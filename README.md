@@ -1,7 +1,7 @@
-<h1 align='center'> Story of my life based on my social medias</h1>
+<h1 align='center'> How I Behaved? </h1>
 
 ### The idea
-* The ideia of this project was to use Twitter (scrapping made with Selenium), YouTube and Spotify data.
+* The ideia of this project was to use Twitter (scrapping made with Selenium), YouTube and Spotify data to figure out my behavior over the last 12 years of my life.
 
 ### How to access? 
 To access the EDA, click [here](https://github.com/turquetti/storytelling-case-ifood/blob/main/analise-exploratoria/EDA.ipynb). 
