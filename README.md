@@ -9,6 +9,6 @@ To access the EDA, click [here](https://github.com/turquetti/storytelling-case-i
 And to access the Data Viz on Tableau, click [here](https://public.tableau.com/app/profile/gabriela.nunes.turquetti/viz/case-ifood-business-data-analyst/2009-2021).
 
 ### Requirements 
-It's necessary to install [Chrome Driver](https://chromedriver.chromium.org/downloads) so the scrapping can work.
+It's necessary to install [Chrome Driver](https://chromedriver.chromium.org/downloads) so the scrapping can work properly.
 
 
